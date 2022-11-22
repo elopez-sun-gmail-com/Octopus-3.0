@@ -1,0 +1,14 @@
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\REPORTES\bin\Debug\net6.0\REPORTES.deps.json
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\REPORTES\bin\Debug\net6.0\REPORTES.dll
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\REPORTES\bin\Debug\net6.0\REPORTES.pdb
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\REPORTES\obj\Debug\net6.0\REPORTES.csproj.AssemblyReference.cache
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\REPORTES\obj\Debug\net6.0\REPORTES.Resource.resources
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\REPORTES\obj\Debug\net6.0\REPORTES.csproj.GenerateResource.cache
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\REPORTES\obj\Debug\net6.0\REPORTES.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\REPORTES\obj\Debug\net6.0\REPORTES.AssemblyInfoInputs.cache
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\REPORTES\obj\Debug\net6.0\REPORTES.AssemblyInfo.cs
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\REPORTES\obj\Debug\net6.0\REPORTES.csproj.CoreCompileInputs.cache
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\REPORTES\obj\Debug\net6.0\REPORTES.dll
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\REPORTES\obj\Debug\net6.0\refint\REPORTES.dll
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\REPORTES\obj\Debug\net6.0\REPORTES.pdb
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\REPORTES\obj\Debug\net6.0\ref\REPORTES.dll

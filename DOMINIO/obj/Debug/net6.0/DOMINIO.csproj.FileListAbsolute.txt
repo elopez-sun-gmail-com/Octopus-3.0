@@ -1,0 +1,40 @@
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\DOMINIO\obj\Debug\net6.0\DOMINIO.csproj.AssemblyReference.cache
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\DOMINIO\obj\Debug\net6.0\DOMINIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\DOMINIO\obj\Debug\net6.0\DOMINIO.AssemblyInfoInputs.cache
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\DOMINIO\obj\Debug\net6.0\DOMINIO.AssemblyInfo.cs
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\DOMINIO\obj\Debug\net6.0\DOMINIO.csproj.CoreCompileInputs.cache
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\DOMINIO\bin\Debug\net6.0\DOMINIO.deps.json
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\DOMINIO\bin\Debug\net6.0\DOMINIO.dll
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\DOMINIO\bin\Debug\net6.0\DOMINIO.pdb
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\DOMINIO\bin\Debug\net6.0\DATOS.dll
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\DOMINIO\bin\Debug\net6.0\MODELO.dll
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\DOMINIO\bin\Debug\net6.0\REPORTES.dll
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\DOMINIO\bin\Debug\net6.0\UTIL.dll
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\DOMINIO\bin\Debug\net6.0\DATOS.pdb
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\DOMINIO\bin\Debug\net6.0\MODELO.pdb
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\DOMINIO\bin\Debug\net6.0\REPORTES.pdb
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\DOMINIO\bin\Debug\net6.0\UTIL.pdb
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\DOMINIO\obj\Debug\net6.0\DOMINIO.csproj.CopyComplete
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\DOMINIO\obj\Debug\net6.0\DOMINIO.dll
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\DOMINIO\obj\Debug\net6.0\refint\DOMINIO.dll
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\DOMINIO\obj\Debug\net6.0\DOMINIO.pdb
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\DOMINIO\obj\Debug\net6.0\ref\DOMINIO.dll
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\DOMINIO\obj\Debug\net6.0\DOMINIO.csproj.AssemblyReference.cache
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\DOMINIO\obj\Debug\net6.0\DOMINIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\DOMINIO\obj\Debug\net6.0\DOMINIO.AssemblyInfoInputs.cache
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\DOMINIO\obj\Debug\net6.0\DOMINIO.AssemblyInfo.cs
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\DOMINIO\obj\Debug\net6.0\DOMINIO.csproj.CoreCompileInputs.cache
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\DOMINIO\bin\Debug\net6.0\DOMINIO.deps.json
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\DOMINIO\bin\Debug\net6.0\DOMINIO.dll
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\DOMINIO\bin\Debug\net6.0\DOMINIO.pdb
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\DOMINIO\bin\Debug\net6.0\DATOS.dll
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\DOMINIO\bin\Debug\net6.0\MODELO.dll
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\DOMINIO\bin\Debug\net6.0\UTIL.dll
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\DOMINIO\bin\Debug\net6.0\DATOS.pdb
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\DOMINIO\bin\Debug\net6.0\MODELO.pdb
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\DOMINIO\bin\Debug\net6.0\UTIL.pdb
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\DOMINIO\obj\Debug\net6.0\DOMINIO.csproj.CopyComplete
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\DOMINIO\obj\Debug\net6.0\DOMINIO.dll
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\DOMINIO\obj\Debug\net6.0\refint\DOMINIO.dll
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\DOMINIO\obj\Debug\net6.0\DOMINIO.pdb
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\DOMINIO\obj\Debug\net6.0\ref\DOMINIO.dll

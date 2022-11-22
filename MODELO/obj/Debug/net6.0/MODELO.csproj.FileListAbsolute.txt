@@ -1,0 +1,24 @@
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\MODELO\bin\Debug\net6.0\MODELO.deps.json
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\MODELO\bin\Debug\net6.0\MODELO.dll
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\MODELO\bin\Debug\net6.0\MODELO.pdb
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\MODELO\obj\Debug\net6.0\MODELO.csproj.AssemblyReference.cache
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\MODELO\obj\Debug\net6.0\MODELO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\MODELO\obj\Debug\net6.0\MODELO.AssemblyInfoInputs.cache
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\MODELO\obj\Debug\net6.0\MODELO.AssemblyInfo.cs
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\MODELO\obj\Debug\net6.0\MODELO.csproj.CoreCompileInputs.cache
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\MODELO\obj\Debug\net6.0\MODELO.dll
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\MODELO\obj\Debug\net6.0\refint\MODELO.dll
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\MODELO\obj\Debug\net6.0\MODELO.pdb
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\MODELO\obj\Debug\net6.0\ref\MODELO.dll
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\MODELO\bin\Debug\net6.0\MODELO.deps.json
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\MODELO\bin\Debug\net6.0\MODELO.dll
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\MODELO\bin\Debug\net6.0\MODELO.pdb
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\MODELO\obj\Debug\net6.0\MODELO.csproj.AssemblyReference.cache
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\MODELO\obj\Debug\net6.0\MODELO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\MODELO\obj\Debug\net6.0\MODELO.AssemblyInfoInputs.cache
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\MODELO\obj\Debug\net6.0\MODELO.AssemblyInfo.cs
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\MODELO\obj\Debug\net6.0\MODELO.csproj.CoreCompileInputs.cache
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\MODELO\obj\Debug\net6.0\MODELO.dll
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\MODELO\obj\Debug\net6.0\refint\MODELO.dll
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\MODELO\obj\Debug\net6.0\MODELO.pdb
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\MODELO\obj\Debug\net6.0\ref\MODELO.dll

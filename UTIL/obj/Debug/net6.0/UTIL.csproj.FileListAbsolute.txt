@@ -1,0 +1,30 @@
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\UTIL\obj\Debug\net6.0\UTIL.csproj.AssemblyReference.cache
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\UTIL\obj\Debug\net6.0\UTIL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\UTIL\obj\Debug\net6.0\UTIL.AssemblyInfoInputs.cache
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\UTIL\obj\Debug\net6.0\UTIL.AssemblyInfo.cs
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\UTIL\obj\Debug\net6.0\UTIL.csproj.CoreCompileInputs.cache
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\UTIL\bin\Debug\net6.0\UTIL.deps.json
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\UTIL\bin\Debug\net6.0\UTIL.dll
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\UTIL\bin\Debug\net6.0\UTIL.pdb
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\UTIL\bin\Debug\net6.0\MODELO.dll
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\UTIL\bin\Debug\net6.0\MODELO.pdb
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\UTIL\obj\Debug\net6.0\UTIL.csproj.CopyComplete
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\UTIL\obj\Debug\net6.0\UTIL.dll
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\UTIL\obj\Debug\net6.0\refint\UTIL.dll
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\UTIL\obj\Debug\net6.0\UTIL.pdb
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\API\UTIL\obj\Debug\net6.0\ref\UTIL.dll
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\UTIL\bin\Debug\net6.0\UTIL.deps.json
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\UTIL\bin\Debug\net6.0\UTIL.dll
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\UTIL\bin\Debug\net6.0\UTIL.pdb
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\UTIL\bin\Debug\net6.0\MODELO.dll
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\UTIL\bin\Debug\net6.0\MODELO.pdb
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\UTIL\obj\Debug\net6.0\UTIL.csproj.AssemblyReference.cache
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\UTIL\obj\Debug\net6.0\UTIL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\UTIL\obj\Debug\net6.0\UTIL.AssemblyInfoInputs.cache
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\UTIL\obj\Debug\net6.0\UTIL.AssemblyInfo.cs
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\UTIL\obj\Debug\net6.0\UTIL.csproj.CoreCompileInputs.cache
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\UTIL\obj\Debug\net6.0\UTIL.csproj.CopyComplete
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\UTIL\obj\Debug\net6.0\UTIL.dll
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\UTIL\obj\Debug\net6.0\refint\UTIL.dll
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\UTIL\obj\Debug\net6.0\UTIL.pdb
+D:\Desarrollo\Workspace\Net\Visual Studio\2022\OCTOPUS 3.0\UTIL\obj\Debug\net6.0\ref\UTIL.dll
