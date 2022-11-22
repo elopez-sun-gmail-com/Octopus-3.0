@@ -45,10 +45,7 @@ namespace API.Controllers
         [HttpPost]
         public async Task<JsonResponse> Solicitud(string json)
         {
-            HttpRequest httpRequest = HttpContext.Request;
-
             JsonResponse response = await this.IServicioPersonas.Solicitud(json);
-
             return response;
         }
 
@@ -60,10 +57,7 @@ namespace API.Controllers
         [HttpPost]
         public async Task<JsonResponse> ProcesarSolicitud()
         {
-            HttpRequest httpRequest = HttpContext.Request;
-
             JsonResponse response = await this.IServicioPersonas.ProcesarSolicitud();
-
             return response;
         }
 
@@ -76,15 +70,9 @@ namespace API.Controllers
         [HttpPost]
         public async Task<JsonResponse> ActualizarSolicitud(string key)
         {
-            HttpRequest httpRequest = HttpContext.Request;
-
             JsonResponse response = await this.IServicioPersonas.ActualizarSolicitud(key);
-
             return response;
         }
-
-
-
 
         /// <summary>
         /// 
@@ -94,48 +82,21 @@ namespace API.Controllers
         [HttpGet]
         public async Task<JsonResponse> ObtenerPersonas()
         {
-            JsonResponse response = new JsonResponse();
-
-            try
-            {
-                var resultado = await this.IServicioPersonas.ObtenerPersonas();
-
-                response.code = (int)HttpStatusCode.OK;
-
-                response.model = resultado;
-            }
-            catch (Exception e)
-            {
-                response.code = 500;
-                response.message = JsonConvert.SerializeObject(e);
-            }
-
+            JsonResponse response = await this.IServicioPersonas.ObtenerPersonas();
             return response;
-
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="entity"></param>
+        /// <returns></returns>
         [Route("COPEC_MANAGE_SAP_GENESIS")]
         [HttpPost]
         public async Task<JsonResponse> COPEC_MANAGE_SAP_GENESIS(Entrada entity)
         {
-            JsonResponse response = new JsonResponse();
-
-            try
-            {
-                var resultado = await this.IServicioPersonas.COPEC_MANAGE_SAP_GENESIS(entity);
-
-                response.code = (int)HttpStatusCode.OK;
-
-                response.model = resultado;
-            }
-            catch (Exception e)
-            {
-                response.code = 500;
-                response.message = JsonConvert.SerializeObject(e);
-            }
-
+            JsonResponse response = await this.IServicioPersonas.COPEC_MANAGE_SAP_GENESIS(entity);
             return response;
-
         }
        
     }

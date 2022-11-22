@@ -8,7 +8,7 @@ namespace DOMINIO.Octopus
         Task<JsonResponse> Solicitud(string json);
         Task<JsonResponse> ProcesarSolicitud();
         Task<JsonResponse> ActualizarSolicitud(string key);
-        Task<List<Personas>> ObtenerPersonas();
+        Task<JsonResponse> ObtenerPersonas();
         Task<JsonResponse> COPEC_MANAGE_SAP_GENESIS(Entrada entity);
     }
 }

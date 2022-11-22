@@ -3,12 +3,13 @@ using Microsoft.WindowsAzure.Storage.Table;
 using MODELO;
 using MODELO.Comun.Data;
 using Newtonsoft.Json;
+using System.Transactions;
 using UTIL;
 
 
 namespace DOMINIO.Octopus.Implementacion
 {
-    public  class ServicioOctopus : IServicioOctopus
+    public class ServicioOctopus : IServicioOctopus
     {
         private readonly IOctopusDataMapper IPersonasDataMapper;
 
@@ -63,10 +64,10 @@ namespace DOMINIO.Octopus.Implementacion
             return response;
         }
 
-       /// <summary>
-       /// 
-       /// </summary>
-       /// <returns></returns>
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
         public async Task<JsonResponse> ProcesarSolicitud()
         {
             JsonResponse response = new JsonResponse();
@@ -144,13 +145,33 @@ namespace DOMINIO.Octopus.Implementacion
         /// 
         /// </summary>
         /// <returns></returns>
-        public async Task<List<Personas>> ObtenerPersonas()
+        public async Task<JsonResponse> ObtenerPersonas()
         {
-            var datos = await this.IPersonasDataMapper.ObtenerPersonas();
+            JsonResponse response = new JsonResponse();
 
-            List<Personas> lista = datos.Item1;
+            try
+            {
+                List<Personas> lista = new List<Personas>();
 
-            return lista;
+                using (TransactionScope transaccion = new TransactionScope(TransactionScopeAsyncFlowOption.Enabled))
+                {
+                    var datos = await this.IPersonasDataMapper.ObtenerPersonas();
+
+                    lista = datos.Item1;
+
+                    transaccion.Complete();
+                }
+
+                response.code = 200;
+                response.model = lista;
+            }
+            catch (Exception e)
+            {
+                response.code = 500;
+                response.message = e.Message;
+            }
+
+            return response;
         }
 
         /// <summary>
@@ -164,12 +185,17 @@ namespace DOMINIO.Octopus.Implementacion
 
             try
             {
-                var datos = await this.IPersonasDataMapper.COPEC_MANAGE_SAP_GENESIS(entity);
+                using (TransactionScope transaccion = new TransactionScope(TransactionScopeAsyncFlowOption.Enabled))
+                {
+                    var datos = await this.IPersonasDataMapper.COPEC_MANAGE_SAP_GENESIS(entity);
+
+                    transaccion.Complete();
+                }
 
                 response.code = 200;
                 response.model = true;
             }
-            catch(Exception e)
+            catch (Exception e)
             {
                 response.code = 500;
                 response.message = e.Message;
