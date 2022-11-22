@@ -53,29 +53,6 @@ namespace DATOS.Octopus.Implementacion
         /// </summary>
         /// <param name="entity"></param>
         /// <returns></returns>
-        public async Task<Tuple<int>> AgregarPersonas(Personas entity)
-        {
-            DynamicParameters parametros = new DynamicParameters();
-
-            parametros.Add("@nombre", entity.nombre);
-            parametros.Add("@apellidoPaterno", entity.apellidoPaterno);
-            parametros.Add("@apellidoMaterno", entity.apellidoMaterno);
-            parametros.Add("@edad", entity.edad);
-
-            var lector = await this.connection.QueryMultipleAsync("[exruv].[AgregarPersonas]", parametros, commandType: CommandType.StoredProcedure);
-
-            var lista = await lector.ReadAsync<int>();
-
-            int primaryKey = lista.FirstOrDefault();
-
-            return Tuple.Create(primaryKey);
-        }
-
-        /// <summary>
-        /// 
-        /// </summary>
-        /// <param name="entity"></param>
-        /// <returns></returns>
         public async Task<Tuple<int>> COPEC_MANAGE_SAP_GENESIS(Entrada entity)
         {
             DynamicParameters parametros = new DynamicParameters();
